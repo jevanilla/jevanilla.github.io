@@ -1,8 +1,9 @@
 ---
 title: "Neural Networks in R"
 collection: teaching
+type: "Tutorial"
 permalink: /teaching/2021-oceanhackweek
-venue: "Ocean HackWeek 2021"
+venue: "Ocean HackWeek"
 date: 2021-08-05
 location: "East Boothbay, Maine"
 ---
