@@ -16,6 +16,7 @@ BA in Compter Science (Honors) and Biological Sciences, Connecticut College, May
 Work experience
 ======
 Research Technician - Bigelow Laboratory for Ocean Sciences - July 2020 - Present
+
 Research Associate - Commercial Fisheries Research Foundation - July 2019 - December 2019
 
 Publications
