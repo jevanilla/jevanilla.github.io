@@ -1,7 +1,7 @@
 ---
 title: "Characterization of Fish Stock Diversity via EST Based miRNA Trans-Regulation Profiling"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-winters-hilt-evanilla
 excerpt: 'Many current fishery stock assessment methods strongly rely on the amount of fish harvest reported...'
 date: 2017-11-27
 venue: 'International Journal of Molecular Genetics and Gene Therapy'
