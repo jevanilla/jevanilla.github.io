@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Johnathan Evanilla"
 title_separator          : "-"
 name                     : &name "Johnathan Evanilla"
-description              : &description "personal description"
-url                      : https://jevanilla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Associate at Bigelow Laboratory for Ocean Sciences"
+url                      : https://jevanilla.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jevanilla/jevanilla.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Johnathan Evanilla"
   avatar           : "profile.png"
-  bio              : "Forecasting Researcher"
+  bio              : "Research Associate at Bigelow Laboratory for Ocean Sciences"
   location         : "Maine"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : jjevanilla@gmail.com
   researchgate     : 
   uri              :
   bitbucket        :
