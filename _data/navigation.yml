@@ -12,9 +12,3 @@ main:
     
   - title: "Presenting"
     url: /presenting/  
-
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
