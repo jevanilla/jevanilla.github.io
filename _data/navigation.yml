@@ -1,5 +1,6 @@
 # main links links
 main:
+
   - title: "Research"
     url: /research/
     
@@ -9,8 +10,8 @@ main:
   - title: "Writing"
     url: /writing/
     
-  - title: "Talks"
-    url: /talks/  
+  - title: "Presenting"
+    url: /presenting/  
 
   - title: "CV"
     url: /cv/

@@ -1,3 +1,8 @@
+---
+permalink: /writing/
+title: "Writing"
+author_profile: true
+---
 
 # Peer-reviewed Writing
 
