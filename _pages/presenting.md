@@ -1,5 +1,10 @@
+---
+permalink: /presenting/
+title: ""
+author_profile: true
+---
 
-# Talks 
+## Talks 
 
 2023 Association for the Sciences of Limnology and Oceanography Aquatic Sciences Meeting Virtual Palma de Mallorca, ES
 
@@ -31,8 +36,17 @@
 
 2016 Connecticut College Summer Research Symposium New London, CT
 
-# Posters
+## Posters
 
 2022 Northeast Aquaculture Conference and Expo (NACE)/Maine Aquaculture Symposium (MAS) Portland, ME
 
 2017 American Fisheries Society - Southern New England Chapter Mystic, CT
+
+## Other Conference Participation
+
+2019 Gulf of Maine 2050 International Symposium Portland, ME
+
+2019 Rhode Island Energy, Environment & Ocean Leaders Day Providence, RI
+
+2018 United States - Japan Natural Resource Aquaculture Symposium Mystic, CT
+

@@ -1,5 +1,8 @@
-
-# Teaching
+---
+permalink: /teaching/
+title: "Teaching"
+author_profile: true
+---
 
 2023 Project Mentor Ocean HackWeek
 
