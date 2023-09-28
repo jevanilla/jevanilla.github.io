@@ -12,7 +12,7 @@ author_profile: true
 
 Record N, **Evanilla J** (2023) "Real-time Forecasts for Shellfish Toxicity and Other Aquaculture Needs" Maine Fishermen's Forum. Rockland, ME
 
-2023 Bigelow Science Symposium. East Boothbay, ME
+**Evanilla J**, Record N, Tupper B, Grandy M (2023) "Knowledge co-production in forecasting with aquaculture" Bigelow Science Symposium. East Boothbay, ME
 
 **Evanilla J**, Record N, Archer S, Tupper B, Kanwit K, Lewis B, Burnell C, Cartisano C, Miller D (2022) "Updates From a Coastal Maine PSP Forecast System" 11th US Symposium on Harmful Algae. Albany, NY
 
@@ -20,23 +20,23 @@ Record N, **Evanilla J** (2023) "Real-time Forecasts for Shellfish Toxicity and 
 
 **Evanilla J**, Record N, Archer D, Tupper B, Kanwit K, Lewis B, Burnell C, Cartisano C, Tracy A, Miller D (2022) "Using AI to Forecast Paralytic Shellfish Poison in Maine" OCB - US CLIVAR Ecological Forecasting Workshop. Falmouth, MA
 
-**Evanilla J**, Record N, Tupper B, Archer D, Kanwit K, MacLeod J, Tracy A (2021) "*Alexandrium catelenella* and Paralytic Shellfish Poison Dynamics in Coastal Maine" Regional Association for Research on the Gulf of Maine. Virtual
+**Evanilla J**, Record N, Tupper B, Archer D, Kanwit K, MacLeod J, Tracy A (2021) "*Alexandrium catenella* and Paralytic Shellfish Poison Dynamics in Coastal Maine" Regional Association for Research on the Gulf of Maine. Virtual
 
 **Evanilla J**, Archer S, Record N, Kanwit K, Tupper B, MacLeod J, Tracy A (2021) "Forecasting Shellfish Toxicity in Coastal Maine using Toxin Data, Environmental Covariates and Deep Learning" Association for the Sciences of Limnology and Oceanography Aquatic Sciences Meeting. Virtual
 
 **Evanilla J**, Archer S, Record N, Tupper B, Burnell C, Grasso I, Kanwit K (2020) "Development and Refinement of a Coastal Maine Shellfish Toxicity Forecasting Algorithm" Regional Association for Research on the Gulf of Maine Virtual
 
-2019 US Coast Guard Academy Cadet Research Symposium New London, CT
+**Evanilla J**, Winters-Hilt S, Mrakovcich K (2019) "Development of Genomic Resources for *Seriola dorsalis* Aquaculture: Searching for Valuable Traits through Local Adaptation" US Coast Guard Academy Cadet Research Symposium New London, CT
 
-2019 Goodwin Niering Center for the Environment Senior Integrative Project Presentations New London, CT
+**Evanilla J**, Winters-Hilt S (2019) "Development of Genomic Resources for *Seriola dorsalis* Aquaculture: Searching for Valuable Traits through Local Adaptation" Goodwin Niering Center for the Environment Senior Integrative Project Presentations New London, CT
 
-2017 Connecticut College Summer Research Symposium New London, CT
+**Evanilla J**, Winters-Hilt S (2017) "Characterization of Fish Stock Diversity via EST Based miRNA Trans-Regulation Profiling" Connecticut College Summer Research Symposium New London, CT
 
-2016 Connecticut College Summer Research Symposium New London, CT
+**Evanilla J**, Winters-Hilt S (2016) "Development of a Fisheries Stock Assessment Tool using Genetic Diversity as a Comparison" Connecticut College Summer Research Symposium New London, CT
 
 ## Posters
 
-**Evanilla J**, Record N, Archer D, Tupper B, Kanwit K, Lewis B, Burnell C, Cartisano C, Tracy A, Miller D (2022) "Using AI to Forecast Paralytic Shellfish Poison in Maine" Northeast Aquaculture Conference and Expo (NACE)/Maine Aquaculture Symposium (MAS). Portland, ME
+**Evanilla J**, Record N, Archer D, Tupper B, Kanwit K, Lewis B, Burnell C, Cartisano C, Tracy A, Miller D (2022) "Using AI to Forecast Paralytic Shellfish Poison in Maine" Northeast Aquaculture Conference and Expo (NACE) - Milford Aquaculture Symposium (MAS). Portland, ME
 
 **Evanilla J**, Record N, Archer D, Tupper B, Kanwit K (2021) "Forecasting Shellfish Toxicity in Coastal Maine using Toxin Data, Environmental Covariates and Deep Learning" 10.5 US Symposium on Harmful Algae. Virtual
 

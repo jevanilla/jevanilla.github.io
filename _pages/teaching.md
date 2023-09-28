@@ -35,7 +35,9 @@ Guest Instructor JP297Dj: "Ocean Forecasting: AI, Ecology, and Data Justice on t
   * Tutorial Presenter - "Neural Networks in R" [Repo](https://github.com/oceanhackweek/ohw-tutorials/tree/OHW21/deep-learning) [Recording](https://youtu.be/mXDbc5JNyz0?si=0iB3QjFVZLpNCflW)
   
   * Project Mentor - "Turtle Detection using Deep Learning" [Repo](https://github.com/oceanhackweek/ohw21-proj-drone-turtles) [Presentation](https://youtu.be/fEjwZ3kLGjY?si=vX4DsSUeAdGQsWqK)
-  
+
+Guest Lecture [Cafe Code](https://bigelowlab.github.io/cafecode/) "Introduction to Artificial Intelligence" East Boothbay, ME [Recording](https://drive.google.com/file/d/1NJBcIoaTPFnX7S-VExU1GvSqDan6H1iZ/view)
+
 ### 2018
 
 Teacher's Assistant "COM/BIO203 Bioinformatics" Department of Computer Science, Connecticut College. New London, CT
