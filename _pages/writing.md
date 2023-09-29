@@ -6,6 +6,8 @@ author_profile: true
 
 ## Peer-reviewed
 
+Record NR, Tupper B, **Evanilla J**, Olivera K, Ngai L, Ross C, Stamieszkin K (in review) “The surprising oceanography of the Gulf of Maine” *Maine Policy Review*.
+
 Record NR, **Evanilla J**, Kanwit K, Burnell C, Cartisano C, Lewis B, MacLeod J, Tupper B, Miller DW, Tracy A, White C, Moretti M, Hamilton B, Barner C, Archer SD (2022) [“Benefits and challenges of a stakeholder-driven shellfish toxicity forecast in coastal Maine”](https://www.frontiersin.org/articles/10.3389/fmars.2022.923738/full) *Frontiers in Marine Science* 9:923738.
 
 Winters-Hilt S, **Evanilla J** (2017) [“Characterization of Fish Stock Diversity via EST Based miRNA Trans-Regulation Profiling.”](https://sciforschenonline.org/journals/genetics/article-data/IJMGGT-3-110/IJMGGT-3-110.pdf) *International Journal of Molecular Genetics and Gene Therapy*. 3(1).

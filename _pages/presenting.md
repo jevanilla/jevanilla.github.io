@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-## Talks 
+### Talks 
 
 **Evanilla J**, Record N, Tupper B, Lewis B, Miller D, Kanwit K, Burnell C, Archer S (2023) "Comparing Process-based and Machine-learning Ecological Prediction of Toxic Algae in Coastal Maine" Association for the Sciences of Limnology and Oceanography Aquatic Sciences Meeting. Palma de Mallorca, ES
 
@@ -34,15 +34,19 @@ Record N, **Evanilla J** (2023) "Real-time Forecasts for Shellfish Toxicity and 
 
 **Evanilla J**, Winters-Hilt S (2016) "Development of a Fisheries Stock Assessment Tool using Genetic Diversity as a Comparison" Connecticut College Summer Research Symposium New London, CT
 
-## Posters
+### Posters
 
 **Evanilla J**, Record N, Archer D, Tupper B, Kanwit K, Lewis B, Burnell C, Cartisano C, Tracy A, Miller D (2022) "Using AI to Forecast Paralytic Shellfish Poison in Maine" Northeast Aquaculture Conference and Expo (NACE) - Milford Aquaculture Symposium (MAS). Portland, ME
 
 **Evanilla J**, Record N, Archer D, Tupper B, Kanwit K (2021) "Forecasting Shellfish Toxicity in Coastal Maine using Toxin Data, Environmental Covariates and Deep Learning" 10.5 US Symposium on Harmful Algae. Virtual
 
-2017 American Fisheries Society - Southern New England Chapter, Mystic, CT
+**Evanilla J**, Winters-Hilt S (2017) “Characterization of Fish Stock Diversity via EST Based miRNA Trans-Regulation Profiling” American Fisheries Society - Southern New England Chapter Meeting. Mystic, CT
 
-## Other Conference Participation
+### Sessions Convened
+
+Banas N, Chen B, **Evanilla J**, Anderson C, Marcé R (2023) “SS121 Combining Machine Learning and Process-Based Models in Ecological Prediction” Association for the Sciences of Limnology and Oceanography Aquatic Sciences Meeting. Palma de Mallorca, ES
+
+### Other Conference Participation
 
 2019 Gulf of Maine 2050 International Symposium Portland, ME
 
