@@ -15,6 +15,8 @@ author_profile: yes
 [Stakeholder Needs Assessment for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco](https://www.unesco.org/en/articles/developing-early-warning-system-harmful-algal-blooms-morocco). Casablanca, Morocco
 
   * Tutorial Presenter - "Introduction to Programming in R"
+  
+![morocco_programming.](/images/morocco_programming.jpg)
 
 [OceanHackweek](https://oceanhackweek.org/ohw22/) Portland, ME
 
@@ -41,3 +43,18 @@ Guest Lecture [Cafe Code](https://bigelowlab.github.io/cafecode/) "Introduction 
 ### 2018
 
 Teacher's Assistant "COM/BIO203 Bioinformatics" Department of Computer Science, Connecticut College. New London, CT
+
+
+# Mentorship
+
+### 2022
+
+**Marlon Grandy**, Colby College (NSF REU)
+
+ * Project Title - "Rhode Island rust tide warning system"
+
+### 2021
+
+**Jace Innis**, Cal State Moss Landing (NSF REU)
+
+ * Project Title - "AI applications to tetramer PCA analyses"
