@@ -26,6 +26,12 @@ author_profile: true
 * Ocean Forecasting
 * Knowledge Co-production
 
+## Professional Affiliations
+
+[Coastal and Esturaine Research Federation](https://www.cerf.science/)
+[Association for the Sciences of Limnology and Oceanography](https://www.aslo.org/)
+[Ecological Forecasting Initiative](https://ecoforecast.org/)
+
 ## Selected Projects 
 
 ### Maine Shellfish Biotoxins

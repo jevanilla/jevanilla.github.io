@@ -45,7 +45,7 @@ Guest Lecture [Cafe Code](https://bigelowlab.github.io/cafecode/) "Introduction 
 Teacher's Assistant "COM/BIO203 Bioinformatics" Department of Computer Science, Connecticut College. New London, CT
 
 
-# Mentorship
+# Mentoring
 
 ### 2022
 
