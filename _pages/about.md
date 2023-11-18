@@ -6,7 +6,7 @@ redirect_from:
   - /about/
 ---
 
-I'm a research associate at [Bigelow Laboratory for Ocean Science](https://www.bigelow.org/), working in the [Tandy Center for Ocean Forecasting](https://www.bigelow.org/services/ocean-forecasting/).
+I'm a research associate at [Bigelow Laboratory for Ocean Science](https://www.bigelow.org/), working in the [Tandy Center for Ocean Forecasting](https://www.bigelow.org/services/ocean-forecasting/). 
 
 Here's some pieces of the story leading up to my current role:
 
@@ -20,9 +20,9 @@ In high school, I was selected to be a member of the [Seeker Fishing Rods](https
 
 A few years later (2014), after a call to their front desk, I landed a summer volunteer position at NOAA's Southwest Fisheries Science Center. I spent a lot of early mornings catching sportfishing boats as they returned to the San Diego landings to measure their tuna as they unloaded.
 
-![sampling_fishermans_landing.](/images/sampling_fishermans_landing.JPG)
+![sampling_fishermans_landing.](/images/sampling_fishermans_landing_2014.JPG)
 
-The next summer (2015), just after I graduated high school and right before I swapped coasts to attend Connecticut College, I was given the opportunity to volunteer on a leg of the SaKe Cruise. While part of the cruise's mission was to survey coastal pelagic species, like the box of CA market squid (*Doryteuthis (Loligo) opalescens*) shown in the first picture, I was lucky to be participating during a strong El Nino event, which turned up some big bags of pelagic red crab (*Pleuroncodes planipes*).
+The next summer (2015), just after I graduated high school and right before I swapped coasts to attend Connecticut College, I was given the opportunity to volunteer on a leg of the SaKe Cruise. While part of the cruise's mission was to survey coastal pelagic species, like the box of CA market squid (*Doryteuthis opalescens*) shown in the first picture, I was lucky to be participating during a strong El Nino event, which turned up some big bags of pelagic red crab (*Pleuroncodes planipes*).
 
 ![SaKe_shimada.](/images/SaKe_shimada_2015.JPG)
 

@@ -36,6 +36,8 @@ Record N, **Evanilla J** (2023) "Real-time Forecasts for Shellfish Toxicity and 
 
 ### Posters
 
+Record N, Tupper B, Douyon K, Drakopulos L, Vera L, **Evanilla J** (2023) “Harmful algae forecasting through an ocean data justice lens” 27th Biennial Coastal and Estuarine Research Federation Conference. Portland, OR.
+
 **Evanilla J**, Record N, Archer D, Tupper B, Kanwit K, Lewis B, Burnell C, Cartisano C, Tracy A, Miller D (2022) "Using AI to Forecast Paralytic Shellfish Poison in Maine" Northeast Aquaculture Conference and Expo (NACE) - Milford Aquaculture Symposium (MAS). Portland, ME
 
 **Evanilla J**, Record N, Archer D, Tupper B, Kanwit K (2021) "Forecasting Shellfish Toxicity in Coastal Maine using Toxin Data, Environmental Covariates and Deep Learning" 10.5 US Symposium on Harmful Algae. Virtual

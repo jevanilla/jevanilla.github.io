@@ -12,7 +12,7 @@ author_profile: true
 | 2023 - present | Research Associate | Colby College | Waterville, ME | 
 | 2020 - 2023 | Research Technician | Bigelow Laboratory for Ocean Sciences | East Boothbay, ME |
 | 2019 | Research Associate | Commercial Fisheries Research Foundation | Saunderstown, RI |
-| 2018 - 2019 | Research Fellow | Richard H Goodwin Environmental Research Fellowship | New London, CT |
+| 2018 - 2019 | Research Fellow | [Richard H Goodwin Environmental Research Fellowship](https://www.conncoll.edu/goodwin-fellowship/) | New London, CT |
 | Summer 2018 | Intern | NOAA Southwest Fisheries Science Center | La Jolla, CA | 
 | Summer 2017 | Student Researcher | Connecticut College Summer Research in the Sciences | New London, CT |
 | Summer 2016 | Student Researcher | Connecticut College Summer Research in the Sciences | New London, CT |
