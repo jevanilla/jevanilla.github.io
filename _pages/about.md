@@ -22,7 +22,7 @@ A few years later (2014), after a call to their front desk, I landed a summer vo
 
 ![sampling_fishermans_landing.](/images/sampling_fishermans_landing_2014.JPG)
 
-The next summer (2015), just after I graduated high school and right before I swapped coasts to attend Connecticut College, I was given the opportunity to volunteer on a leg of the SaKe Cruise. While part of the cruise's mission was to survey coastal pelagic species, like the box of CA market squid (*Doryteuthis opalescens*) shown in the first picture, I was lucky to be participating during a strong El Nino event, which turned up some big bags of pelagic red crab (*Pleuroncodes planipes*).
+The next summer (2015), just after I graduated high school and right before I swapped coasts to attend Connecticut College, I was given the opportunity to volunteer on a leg of the SaKe Cruise on the RV Bell M Shimada. While part of the cruise's mission was to survey coastal pelagic species, like the box of CA market squid (*Doryteuthis opalescens*) shown in the first picture, I was lucky to be participating during a strong El Nino event, which turned up some big bags of pelagic red crab (*Pleuroncodes planipes*).
 
 ![SaKe_shimada.](/images/SaKe_shimada_2015.JPG)
 
@@ -40,7 +40,7 @@ A highlight of the summer started as a standard day of fishing kelp paddies abou
 
 ![opah.](/images/opah.JPG)
 
-Connecticut College happened to be right across the street from the US Coast Guard Academy. During the prior spring (2018), I found myself sitting in a fisheries management course where my classmates were future USCG officiers. One day, a local commercial fisherman, Captain Mike Theiler, came in to give a guest lecture. After chatting briefly after class, I landed a part time job working on a few of his boats.
+Connecticut College happened to be right across the street from the US Coast Guard Academy. During the prior spring (2018), I found myself sitting in a fisheries management course where my classmates were future USCG officers. One day, a local commercial fisherman, Captain Mike Theiler, came in to give a guest lecture. After chatting briefly after class, I landed a part time job working on a few of his boats.
 
 ![jeanette_t_2018.](/images/jeanette_t_2018.JPG)
 
@@ -52,6 +52,10 @@ With some commercial fishing experience, my first job out of college was at [Com
 
 ![nviro_dredge_2.](/images/nviro_dredge_2.JPG)
 
+In December 2022, I made the cross country journey to end up in Seattle, WA, my current home base.
 
+![cc_move_2022.](/images/cc_move_2022.jpeg)
 
+Recently I had the opportunity to join another coastal pelagic cruise in September 2023. I spent some time getting to know the daytime acoustics operations and saw a small school of bait. 
 
+![lasker_cps_acoustics.](/images/lasker_cps_acoustics.jpeg)
