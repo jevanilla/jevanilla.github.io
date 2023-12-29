@@ -12,6 +12,9 @@ main:
     
   - title: "Presenting"
     url: /presenting/  
-    
+
+  - title: "Fishing"
+    url: /fishing/  
+
   - title: "Contact"
     url: /contact/
