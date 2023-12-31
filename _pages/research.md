@@ -37,9 +37,13 @@ author_profile: true
 
 ## Selected Projects 
 
-### Maine Shellfish Biotoxins
+### Maine Shellfish Biotoxin Forecasting
+
+Annual occurrence of paralytic shellfish poison (PSP) across the coast of Maine poses a challenge for fishery managers who implement regional harvesting closures to protect human health. Similarly, shellfish growers and harvesters also must make decisions to operate their businesses in the face of these closures. Two process-based predictive models exist that deliver seasonal and weekly *Alexandrium catenella* bloom potential forecasts. A more recently developed machine-learning model predicts the probabilistic risk of PSP accumulation in shellfish at a site-specific, weekly timescale. The latter model was developed with shellfish industry members and managers, to produce the most usable forecast possible. Through two seasons of delivering predictions in an experimental mode, the forecast has achieved high accuracy and received positive feedback from its users. Both the process-based and machine learning models provide important, but different insights for their users. While the process-based models capture a suite of environmental conditions that may lead to blooms of *A. catenella*, high cell concentrations cannot always predict spikes in toxicity. On the other hand, the machine learning model excels at predicting toxicity at a finer (weekly) timescale, but loses skill with longer lead times (> two weeks). Combining the two model types is being explored. 
 
 ### Blue Mussel Spat Settlement in Coastal Maine
+
+*Mytilus edulis* (blue mussel) seed availability is the biggest bottleneck in the Maine mussel aquaculture industry. *Perna canaliculus* spat settlement was demonstrated to be predicted with high accuracy 1 month ahead using historical spat collection records and 1 month of prior environmental covariates in New Zealand (Atalah, 2019). Originally suggested as a research idea from a mussel grower in Maine, a mussel spat settlement forecast would aid the industry in the annual process of collecting new mussels to grow. We conducted a survey of available mussel seed colleciton efforts in Maine, and attempted to look for relationships with environmental covariates. 
 
 ### Assessing Marine Protected Area Success with OBIS Data
 
