@@ -52,7 +52,11 @@ With some commercial fishing experience, my first job out of college was at [Com
 
 ![nviro_dredge_2.](/images/nviro_dredge_2.JPG)
 
-In December 2022, I made the cross country journey to end up in Seattle, WA, my current home base.
+In December 2022, I traveled to Casablanca, Morocco with my boss Nick to participate in the IOC-UNESCO workshop: Stakeholder Needs Assessment for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco. The three day workshop featured lots of discussion and a few programming tutorial sessions.
+
+![morroco_workshop_group.](/images/morocco_workshop_group.JPG)
+
+Upon returning, I left Maine and made the cross country journey to end up in Seattle, WA, my current home base.
 
 ![cc_move_2022.](/images/cc_move_2022.jpeg)
 
