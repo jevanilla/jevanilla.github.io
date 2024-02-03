@@ -6,7 +6,7 @@ author_profile: true
 
 ## Peer-reviewed
 
-Record NR, Tupper B, **Evanilla J**, Olivera K, Ngai L, Ross C, Stamieszkin K (in review) “The surprising oceanography of the Gulf of Maine” *Maine Policy Review*.
+Record NR, Tupper B, **Evanilla J**, Olivera K, Ngai L, Ross C, Stamieszkin K (2023) [“The surprising oceanography of the Gulf of Maine”](https://digitalcommons.library.umaine.edu/mpr/vol32/iss2/4/) *Maine Policy Review* 32:2.
 
 Record NR, **Evanilla J**, Kanwit K, Burnell C, Cartisano C, Lewis B, MacLeod J, Tupper B, Miller DW, Tracy A, White C, Moretti M, Hamilton B, Barner C, Archer SD (2022) [“Benefits and challenges of a stakeholder-driven shellfish toxicity forecast in coastal Maine”](https://www.frontiersin.org/articles/10.3389/fmars.2022.923738/full) *Frontiers in Marine Science* 9:923738.
 
