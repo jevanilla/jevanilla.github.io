@@ -6,6 +6,8 @@ author_profile: true
 
 ### Talks 
 
+**Evanilla J**, Record N (2024) "Maine PSP Forecast Updates" Gulf of Maine HAB Science Symposium. Portsmouth, NH
+
 **Evanilla J**, Record N, Tupper B, Lewis B, Miller D, Kanwit K, Burnell C, Archer S (2023) "Comparing Process-based and Machine-learning Ecological Prediction of Toxic Algae in Coastal Maine" Association for the Sciences of Limnology and Oceanography Aquatic Sciences Meeting. Palma de Mallorca, ES
 
 **Evanilla J**, Record N, Kanwit K, Archer S (2023) "Maine PSP Forecast System: A Stakeholder Oriented Approach" Gulf of Maine HAB Symposium. Virtual
