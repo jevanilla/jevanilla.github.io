@@ -4,6 +4,12 @@ permalink: /teaching/
 author_profile: yes
 ---
 
+### 2024
+
+Community Engaged Data Science, College of the Atlantic, Bar Harbor, ME
+
+  * Guest instructor - "Developing Interactive Web Applications using Shiny in R" [Repo (with solutions)](https://github.com/jevanilla/rshiny-workshop)
+
 ### 2023
 
 [OceanHackWeek](https://oceanhackweek.org/ohw23/) Seattle, WA
