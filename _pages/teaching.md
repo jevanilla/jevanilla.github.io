@@ -6,7 +6,11 @@ author_profile: yes
 
 ### 2024
 
-Community Engaged Data Science, College of the Atlantic, Bar Harbor, ME
+[Ecological Forecasting Initiative Conference](https://eventee.co/en/e/efi-2024-conference-19390) Helsinki, FI
+
+  * Workshop Organizer "Forecasting unevenly observed data using machine-learning"
+
+[Community Engaged Data Science](https://www.coa.edu/live/profiles/4826-community-engaged-data-science), College of the Atlantic, Bar Harbor, ME
 
   * Guest instructor - "Developing Interactive Web Applications using Shiny in R" [Repo (with solutions)](https://github.com/jevanilla/rshiny-workshop)
 
