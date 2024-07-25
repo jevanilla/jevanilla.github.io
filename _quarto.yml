@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+  execute-dir: project
+  render:
+    - about.qmd
+    - writing.qmd
+    - presenting.qmd
+    - teaching.qmd
+    - research.qmd
+
+website:
+  title: "Johnathan Evanilla"
+  navbar:
+    left:
+      - text: "Home"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Writing" 
+        href: writing.qmd
+      - text: "Presenting"
+        href: presenting.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+    right: 
+      - icon: github
+        href: https://github.com/jevanilla
+      - icon: linkedin
+        href: https://www.linkedin.com/in/johnathan-evanilla-904059172/
+
+resources: 
+  -"images/"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+editor: visual
+
