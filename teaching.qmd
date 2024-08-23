@@ -22,7 +22,7 @@ Bigelow Laboratory for Ocean Sciences. East Boothbay, ME
 
 [Stakeholder Needs Assessment for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco](https://www.unesco.org/en/articles/developing-early-warning-system-harmful-algal-blooms-morocco). Casablanca, Morocco
 
-  * *Tutorial Presenter* - "Introduction to Programming in R"
+  * *Tutorial Presenter* - "Introduction to programming in R", "Data analysis in R", "Modeling methods and tools in R" [Agenda](https://oceanexpert.org/downloadFile/52271) [Final Report](https://oceanexpert.org/downloadFile/52270)
   
 ![](/images/morocco_programming.jpg)
 
