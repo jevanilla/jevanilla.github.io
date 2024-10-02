@@ -48,7 +48,9 @@ Jan Plan, Colby College. Waterville, ME
   
   * *Project Mentor* - "Turtle Detection using Deep Learning" [Repo](https://github.com/oceanhackweek/ohw21-proj-drone-turtles) [Presentation](https://youtu.be/fEjwZ3kLGjY?si=vX4DsSUeAdGQsWqK)
 
-Guest Lecture [Cafe Code](https://bigelowlab.github.io/cafecode/) "Introduction to Artificial Intelligence" East Boothbay, ME [Recording](https://drive.google.com/file/d/1NJBcIoaTPFnX7S-VExU1GvSqDan6H1iZ/view)
+[Cafe Code](https://bigelowlab.github.io/cafecode/) 
+
+  * *Guest Speaker* - "Introduction to Artificial Intelligence" East Boothbay, ME [Recording](https://drive.google.com/file/d/1NJBcIoaTPFnX7S-VExU1GvSqDan6H1iZ/view)
 
 ### 2018
 
