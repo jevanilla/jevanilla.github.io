@@ -1,5 +1,9 @@
 ### 2024
 
+[Tribal Exchange Network Conference](https://sites.google.com/view/tenc24/home) Spokane, WA
+
+  * *Workshop organizer* "Introduction to developing interactive web applications using Shiny in R"
+
 Bigelow Laboratory for Ocean Sciences. East Boothbay, ME
 
   * *Instructor* - ["Data Carpentry with R"](https://bigelowlab.github.io/2024-07-08-wph-online/)
@@ -10,7 +14,7 @@ Bigelow Laboratory for Ocean Sciences. East Boothbay, ME
 
 [Community Engaged Data Science](https://www.coa.edu/live/profiles/4826-community-engaged-data-science), College of the Atlantic, Bar Harbor, ME
 
-  * *Guest Instructor* - "Developing Interactive Web Applications using Shiny in R" [Repo (with solutions)](https://github.com/jevanilla/rshiny-workshop)
+  * *Guest Instructor* - "Introduction to developing interactive web applications using Shiny in R" [Repo (with solutions)](https://github.com/jevanilla/rshiny-workshop)
 
 ### 2023
 
