@@ -1,66 +1,69 @@
 ### 2024
 
-[Scientific Meeting on Data Needs and Code of Practice for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Namibia](https://www.ioc.unesco.org/en/articles/toxic-algae-cross-borders-so-solutions-must-cross-borders-too) Swakopmund, NA
+Meeting on Monitoring Methods and Data Management for establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco (Casablanca, MA)
 
-[Tribal Exchange Network Conference](https://sites.google.com/view/tenc24/home) Spokane, WA
+
+[Scientific Meeting on Data Needs and Code of Practice for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Namibia](https://www.ioc.unesco.org/en/articles/toxic-algae-cross-borders-so-solutions-must-cross-borders-too) (Swakopmund, NA)
+
+[Tribal Exchange Network Conference](https://sites.google.com/view/tenc24/home) (Spokane, WA)
 
   * *Workshop organizer* "Introduction to developing interactive web applications using Shiny in R"
 
-Bigelow Laboratory for Ocean Sciences. East Boothbay, ME
+Bigelow Laboratory for Ocean Sciences (East Boothbay, ME)
 
   * *Instructor* - ["Data Carpentry with R"](https://bigelowlab.github.io/2024-07-08-wph-online/)
 
-[Ecological Forecasting Initiative Conference](https://eventee.co/en/e/efi-2024-conference-19390) Helsinki, FI
+[Ecological Forecasting Initiative Conference](https://eventee.co/en/e/efi-2024-conference-19390) (Helsinki, FI)
 
   * *Workshop Organizer* - "Forecasting unevenly observed data using machine-learning"
 
-[Community Engaged Data Science](https://www.coa.edu/live/profiles/4826-community-engaged-data-science), College of the Atlantic, Bar Harbor, ME
+[Community Engaged Data Science](https://www.coa.edu/live/profiles/4826-community-engaged-data-science), College of the Atlantic (Bar Harbor, ME)
 
   * *Guest Instructor* - "Introduction to developing interactive web applications using Shiny in R" [Repo (with solutions)](https://github.com/jevanilla/rshiny-workshop)
 
 ### 2023
 
-[OceanHackWeek](https://oceanhackweek.org/ohw23/) Seattle, WA
+[OceanHackWeek](https://oceanhackweek.org/ohw23/) (Seattle, WA)
 
   * *Project Mentor* - "Mooring Processing and Data Page" [Repo](https://github.com/oceanhackweek/ohw23_proj_fancymoorings) [Presentation](https://www.youtube.com/watch?v=90t6h36-BOQ) [Webpage](https://oceanhackweek.org/ohw23_proj_fancymoorings/)
 
 ### 2022 
 
-[Stakeholder Needs Assessment for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco](https://www.unesco.org/en/articles/developing-early-warning-system-harmful-algal-blooms-morocco). Casablanca, Morocco
+[Stakeholder Needs Assessment for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco](https://www.unesco.org/en/articles/developing-early-warning-system-harmful-algal-blooms-morocco) (Casablanca, MA)
 
   * *Tutorial Presenter* - "Introduction to programming in R", "Data analysis in R", "Modeling methods and tools in R" [Agenda](https://oceanexpert.org/downloadFile/52271) [Final Report](https://oceanexpert.org/downloadFile/52270)
   
 ![](/images/morocco_programming.jpg)
 
-[OceanHackweek](https://oceanhackweek.org/ohw22/) Portland, ME
+[OceanHackweek](https://oceanhackweek.org/ohw22/) (Portland, ME)
 
   * *Tutorial Presenter* - "Data Access in R" [Repo](https://github.com/oceanhackweek/ohw-tutorials/tree/OHW22/01-Tue/00-data-access-in-R) [Recording](https://youtu.be/NgzsQruZWNw?si=PMWKhX-rW6_ZYRYj)
   
   * *Project Mentor* - "XYZT" [Repo](https://github.com/oceanhackweek/ohw22-proj-xyzt) [Presentation](https://youtu.be/ScgDwZyuSvI?si=m0qXAXAb_9E1skni)
 
-[GlobalHAB Symposium on HAB Modeling and Prediction](https://habmodelworkshop.sccoos.org/) (2022) Glasgow, UK 
+[GlobalHAB Symposium on HAB Modeling and Prediction](https://habmodelworkshop.sccoos.org/) (Glasgow, UK) 
 
   * *Tutorial Presenter* - "Getting Started with Machine Learning using Tidymodels in R"
 
-Jan Plan, Colby College. Waterville, ME
+Jan Plan, Colby College (Waterville, ME)
 
   * *Guest Instructor* - JP297Dj: "Ocean Forecasting: AI, Ecology, and Data Justice on the Seas"
 
 ### 2021
 
-[OceanHackWeek](https://oceanhackweek.org/ohw21/) East Boothbay, ME
+[OceanHackWeek](https://oceanhackweek.org/ohw21/) (East Boothbay, ME)
 
   * *Tutorial Presenter* - "Neural Networks in R" [Repo](https://github.com/oceanhackweek/ohw-tutorials/tree/OHW21/deep-learning) [Recording](https://youtu.be/mXDbc5JNyz0?si=0iB3QjFVZLpNCflW)
   
   * *Project Mentor* - "Turtle Detection using Deep Learning" [Repo](https://github.com/oceanhackweek/ohw21-proj-drone-turtles) [Presentation](https://youtu.be/fEjwZ3kLGjY?si=vX4DsSUeAdGQsWqK)
 
-[Cafe Code](https://bigelowlab.github.io/cafecode/) 
+[Cafe Code](https://bigelowlab.github.io/cafecode/) (East Boothbay, ME)
 
-  * *Guest Speaker* - "Introduction to Artificial Intelligence" East Boothbay, ME [Recording](https://drive.google.com/file/d/1NJBcIoaTPFnX7S-VExU1GvSqDan6H1iZ/view)
+  * *Guest Speaker* - "Introduction to Artificial Intelligence" [Recording](https://drive.google.com/file/d/1NJBcIoaTPFnX7S-VExU1GvSqDan6H1iZ/view)
 
 ### 2018
 
-Department of Computer Science, Connecticut College. New London, CT
+Department of Computer Science, Connecticut College (New London, CT)
 
   * *Teacher's Assistant* - "COM/BIO203 Bioinformatics" 
 
