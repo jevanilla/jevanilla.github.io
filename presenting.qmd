@@ -1,5 +1,7 @@
 ## Talks 
 
+**Evanilla J**, Kanwit K, Spillane T, Lewis B, Miller D, Burnell C, Archer S, Greenleaf H, Record N, Tupper B (2025) "50 years of PSP monitoring data from Maine" Bigelow Science Symposium. East Boothbay, ME
+
 **Evanilla J**, Record N (2024) "Maine PSP Forecast Updates" Gulf of Maine HAB Science Symposium. Portsmouth, NH
 
 **Evanilla J**, Record N, Tupper B, Lewis B, Miller D, Kanwit K, Burnell C, Archer S (2023) "Comparing Process-based and Machine-learning Ecological Prediction of Toxic Algae in Coastal Maine" Association for the Sciences of Limnology and Oceanography Aquatic Sciences Meeting. Palma de Mallorca, ES
@@ -47,6 +49,8 @@ Record N, Tupper B, Douyon K, Drakopulos L, Vera L, **Evanilla J** (2023) “Har
 Banas N, Chen B, **Evanilla J**, Anderson C, Marcé R (2023) “SS121 Combining Machine Learning and Process-Based Models in Ecological Prediction” Association for the Sciences of Limnology and Oceanography Aquatic Sciences Meeting. Palma de Mallorca, ES
 
 ## Other Conference Participation
+
+2025 Maine Aquaculture Research, Development and Education (RD&E) Summit Castine, ME
 
 2024 6th NOAA Workshop on Leveraging AI in Environmental Sciences Seattle, WA
 
