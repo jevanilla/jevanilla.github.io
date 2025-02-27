@@ -1,8 +1,12 @@
 ### 2024
 
-Meeting on Monitoring Methods and Data Management for establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco (Casablanca, MA)
+[Meeting on Monitoring Methods and Data Management for establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco](https://www.bigelow.org/news/articles/2025-01-24.html) (Casablanca, MA)
+
+  * *Invited Expert*
 
 [Scientific Meeting on Data Needs and Code of Practice for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Namibia](https://www.ioc.unesco.org/en/articles/toxic-algae-cross-borders-so-solutions-must-cross-borders-too) (Swakopmund, NA)
+
+  * *Invited Expert*
 
 [Tribal Exchange Network Conference](https://sites.google.com/view/tenc24/home) (Spokane, WA)
 
@@ -29,6 +33,8 @@ Bigelow Laboratory for Ocean Sciences (East Boothbay, ME)
 ### 2022 
 
 [Stakeholder Needs Assessment for Establishing an Early Warning System (EWS) for Harmful Algal Blooms (HABs) in Morocco](https://www.unesco.org/en/articles/developing-early-warning-system-harmful-algal-blooms-morocco) (Casablanca, MA)
+
+  * *Invited Expert*
 
   * *Tutorial Presenter* - "Introduction to programming in R", "Data analysis in R", "Modeling methods and tools in R" [Agenda](https://oceanexpert.org/downloadFile/52271) [Final Report](https://oceanexpert.org/downloadFile/52270)
   
