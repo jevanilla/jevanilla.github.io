@@ -3,7 +3,6 @@
 |             |                    |                                                        |                | 
 | ----------- | ------------------ | ------------------------------------------------------ | -------------- | 
 | 2023 - present | Research Associate | Bigelow Laboratory for Ocean Sciences | East Boothbay, ME |
-| 2023 - present | Research Associate | Colby College | Waterville, ME | 
 | 2020 - 2023 | Research Technician | Bigelow Laboratory for Ocean Sciences | East Boothbay, ME |
 | 2019 | Research Associate | [Commercial Fisheries Research Foundation](http://www.cfrfoundation.org/) | Saunderstown, RI |
 | 2018 - 2019 | Research Fellow | [Richard H Goodwin Environmental Research Fellowship](https://www.conncoll.edu/goodwin-fellowship/) | New London, CT |
@@ -14,11 +13,13 @@
 
 ## Research Interests
 
+* Ocean Forecasting
+* Research Software Development
+* Harmful Algae
 * Fisheries Biology
 * Highly Migratory Species
-* Research Software Development
-* Ocean Forecasting
 * Knowledge Co-production
+* Blue Economy
 
 ## Professional Affiliations
 
@@ -49,7 +50,7 @@ As a candidate species for aquaculture in Southern California, genomic resources
 
 ### Fish Stock Genetic Diversity
 
-Many current fishery stock assessment methods strongly rely on the amount of fish harvest reported at the dock by fishermen. We seek a method for fish stock assessment that is based on transcriptome measures. In this study we were interested in the correlation between transcriptome level diversity and changes in the phenotype expression ability of commercially targeted fish. By analyzing the complexity of miRNA/RNAi 7mer binding sites in the 3’UTR regions, inferences are made as to the accessible repertoire of phenotypes for the organism. If fewer phenotypes are available, for use in response to environmental change, or for use in extending habitable niche, such as by ‘schooling’, then significant loss of fishery stock may result. Preliminary results indicate Gadus Morhua (Atlantic Cod) has undergone such a loss in transcript regulatory complexity, which appears to be associated with the collapse of the Cod fishery in the Gulf of Maine.
+Many current fishery stock assessment methods strongly rely on the amount of fish harvest reported at the dock by fishermen. We seek a method for fish stock assessment that is based on transcriptome measures. In this study we were interested in the correlation between transcriptome level diversity and changes in the phenotype expression ability of commercially targeted fish. By analyzing the complexity of miRNA/RNAi 7mer binding sites in the 3’UTR regions, inferences are made as to the accessible repertoire of phenotypes for the organism. If fewer phenotypes are available, for use in response to environmental change, or for use in extending habitable niche, such as by ‘schooling’, then significant loss of fishery stock may result. Preliminary results indicate *Gadus morhua* (Atlantic Cod) has undergone such a loss in transcript regulatory complexity, which appears to be associated with the collapse of the Cod fishery in the Gulf of Maine.
 
 ## Awards and Grants
 
