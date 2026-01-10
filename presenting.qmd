@@ -1,5 +1,7 @@
 ## Talks 
 
+**Evanilla J**, Record NR, Tupper B, Archer S, Kanwit K (2026) "A machine-learning based, shellfish biotoxin forecasting method: Successes from Maine, USA, and opportunities for other regions" Northeast Aquaculture Conference and Expo. Portland, ME
+
 **Evanilla J**, Record NR, Tupper B, Archer S, Kanwit K (2025) "A machine-learning based, shellfish biotoxin forecasting method: Successes from Maine, USA, and opportunities for other regions" International Conference on Harmful Algae. Punta Arenas, CL
 
 **Evanilla J** (2025) "Predicting the future – modelling and forecasting harmful algae bloom events – experiences from the Gulf of Maine" Lunchtime Seminar - Marine Institute. Galway, IE
