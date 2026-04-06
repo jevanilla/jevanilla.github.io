@@ -47,3 +47,5 @@ vignettes/*.pdf
 # translation temp files
 po/*~
 /.quarto/
+
+**/*.quarto_ipynb
