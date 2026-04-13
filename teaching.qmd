@@ -30,7 +30,7 @@ PNW Tribal Coding Group 2025 Retreat (Olympia, WA)
 
 [Tribal Exchange Network Conference](https://sites.google.com/view/tenc24/home) (Spokane, WA)
 
-  * *Workshop organizer* "Introduction to developing interactive web applications using Shiny in R"
+  * *Workshop organizer* ["Introduction to developing interactive web applications using Shiny in R"](https://www.tribalexchangenetwork.org/technical-training-videos)
 
 Bigelow Laboratory for Ocean Sciences (East Boothbay, ME)
 
